@@ -1,2 +1,2 @@
-# Ue6_Eje_Integrador
+# Uea6_Eje_Integrador
 Eje integrador 
